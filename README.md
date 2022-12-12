@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @teseu
-- 👀 I’m interested in Free Software, Linux, Fedora, Frontend development, javascript, html, css, vuejs, react
+- 👀 I’m interested in Free Software, LibreOffice, Linux, Fedora, Frontend development, javascript, html, css, vuejs, react
 - 🌱 I’m currently learning javascript, html, css, vuejs, react
 - 💞️ I’m looking to collaborate on open software projects
 - 📫 How to reach me:
